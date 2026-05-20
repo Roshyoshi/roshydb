@@ -1,0 +1,4 @@
+#!/usr/bin/env sh
+set -eu
+
+autoreconf --install --force --verbose
