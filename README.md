@@ -1,6 +1,7 @@
 # roshydb
 
-`roshydb` is a C++26 project scaffolded with Autotools, GoogleTest, and a Nix
+`roshydb` is a WIP OLAP database created for learning/exploratory purposes.  
+Scaffolded with Autotools, GoogleTest, and a Nix
 flake for reproducible development and package builds.
 
 ## Development
